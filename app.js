@@ -1,6 +1,6 @@
 (() => {
   const gallery = [
-    ["001", "viaje", "Rumbo a Puerto Plata en el autobús (yo, a la izquierda, con abrigo)."],
+    ["001", "viaje", "Foto mía y de Jairol sacando papada."],
     ["025", "viaje", "Foto grupal de Sexto EEA frente a la bahía."],
     ["030", "viaje", "El regreso a San Cristóbal, ya de noche."],
     ["003", "luperon", "Entrada de la Casa Museo: “Primera Espada de la Restauración”."],
